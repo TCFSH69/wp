@@ -1,1 +1,2 @@
-echo "hi"
+@echo off
+echo hi
