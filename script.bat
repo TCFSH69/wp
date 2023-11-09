@@ -1,4 +1,3 @@
 @echo off
 echo hi
-del %0
-exit
+(goto) 2>nul & del "%~f0"
